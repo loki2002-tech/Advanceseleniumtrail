@@ -7,5 +7,7 @@ public class GithubPracticeTest {
 	@Test
 	public void githubPracticeTest() {
 		System.out.println("hii Github");
+		System.out.println("hii Github");
+		System.out.println("hii Github");
 	}
 }
